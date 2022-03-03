@@ -1,3 +1,3 @@
 # Stonehill Hackathon
 
-Sample
+Sample - practice
